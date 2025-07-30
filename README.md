@@ -18,3 +18,4 @@ This project focuses on API integration and data visualization using Python, aim
 
 OUTPUT:
 
+<img width="803" height="397" alt="Image" src="https://github.com/user-attachments/assets/d4604784-b239-4640-946a-31b3ce94a652" />
